@@ -1,2 +1,2 @@
 # hello-world
-my first project
+Hi everyone,I will study javascript and css hard on github.
